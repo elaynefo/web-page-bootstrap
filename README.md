@@ -1,2 +1,2 @@
-# web-page-bootstrap
+# Webpage simples usando Bootstrap
 Construindo página web com Bootstrap
